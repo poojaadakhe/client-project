@@ -14,7 +14,7 @@ const App: React.FC = () => {
         </div>
         <div className="row"><br></br>
           <div className="col-md-3">
-            <Button label="Add Text" style={{ color: '#ffffff' }} ></Button>
+            <Button  style={{ color: '#ffffff' }} ></Button>
             {/* classes ={"btn btn-warning"} */}
           </div>
           <div className="col-md-3">
@@ -35,3 +35,4 @@ const App: React.FC = () => {
 }
 
 export default App;
+
